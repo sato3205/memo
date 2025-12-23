@@ -1,0 +1,20 @@
+title: memo
+description: 個人用 講義ノート
+theme: just-the-docs
+
+url: https://sato3205.github.io
+baseurl: /memo
+
+search_enabled: true
+heading_anchors: true
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+aux_links:
+  GitHub:
+    - https://github.com/sato3205/memo
