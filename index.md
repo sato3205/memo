@@ -1,3 +1,14 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+# 講義ノート
+
+左のメニューから分野を選択してください。
+
+
 # メモ
 
 <div style="
