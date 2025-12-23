@@ -1,3 +1,17 @@
+---
+layout: default
+title: 計量経済学
+parent: Home
+nav_order: 1
+---
+
+# 計量経済学
+
+## 基礎
+- [最小二乗法（OLS）](ols)
+- [操作変数法（IV）](iv)
+
+
 # 計量経済学
 
 <div style="
