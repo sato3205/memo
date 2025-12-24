@@ -8,6 +8,15 @@ has_toc: true
 
 # 最小二乗法（OLS）
 
+<details open>
+<summary><strong>目次</strong></summary>
+
+* TOC
+{:toc}
+
+</details>
+
+
 ## モデル
 $$
 y = X\beta + u
