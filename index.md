@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Home
+title: 計量経済学
+parent: Home
 nav_order: 1
+has_children: true
 ---
+
 
 # メモ
 
