@@ -18,3 +18,15 @@ kramdown:
 aux_links:
   GitHub:
     - https://github.com/sato3205/memo
+
+# just-the-docs 推奨
+color_scheme: light
+
+# ページ内の見出しに自動で目次を出しやすくする
+toc_enabled: true
+
+# 「編集」リンク（任意）
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/sato3205/memo"
+gh_edit_branch: "main"
